@@ -1,19 +1,19 @@
 ## Space exploration site
 ### Concepts Learned
 ```
-- HTML Tags
-- <img/> tag
+  HTML Tags
+
 - <h1></h1> tag
+- <img/> tag
 - <h2></h2>tag
 - <a> tag
-- <ul><li></li></ul> tag
 - <p></p> tag
-- <input/> tag
 - <button/> tag
 ```
 
 ```
-- CSS rules
+  CSS rules
+
 - font-family
 - class selector
 - id selector
@@ -22,9 +22,8 @@
 - color
 - width
 - height
-- Absolute unit(px)
-- padding
-- margin
+- padding(px)
+- margin(px)
 - border-bottom
 - text-align
 ```
